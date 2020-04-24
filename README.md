@@ -6,8 +6,6 @@ All of the code can be found in 'Cooking_With_BERT.ipynb'.
 
 There is a brief Setup section followed by the char-rnn model, word-rnn model, and finall the GPT-2 model. Sections are labeled with headers.
 
-The setup loads in methods and files for handling datasets.
-
 Generally the models start with their own set up, then the training and reloading, and finally the evaluation methods.
 
 In order to run the GPT-2 section, the environment must be restarted and set to Tensorflow = 1.x
